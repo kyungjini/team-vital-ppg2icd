@@ -1,3 +1,7 @@
+# config.yaml
+mimiciv_wfdb_meta.csv
+wfdb_diagnoses.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
